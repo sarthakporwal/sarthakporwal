@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at NIT Allahabad<br>💡 Always exploring new tech and open to collaboration<br>🌱 I’m currently learning React<br>💬 Ask me about anything
+🔭 I’m currently studying at NIT Allahabad<br>💡 Always exploring new tech and open to collaboration<br>🌱 I’m currently learning Web Development, DSA, LLD<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
